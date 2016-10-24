@@ -1,0 +1,6 @@
+{
+  "name": "Lab2a",
+  "tagline": "",
+  "body": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta charset=\"UTF-8\">\r\n<title>Title of the document</title>\r\n</head>\r\n<body>\r\n<div id=\"container\">\r\n<div id=\"pierwszy\">\r\n<h1>Przykładowy header 1</h1>\r\n<p>Akapit pierwszy</p>\r\n<p>Akapit drugi</p>\r\n</div>\r\n<div id=\"drugi\">\r\n<h2>Przykładowy header numer 2</h2>\r\n<p> kolejny akapit</p>\r\n</div>\r\n</div>\r\n\r\n</body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
